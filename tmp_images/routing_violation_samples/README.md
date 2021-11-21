@@ -1,0 +1,1 @@
+最初にVCCとGNDをギリギリでマニュアルroutingしたときに、freeroutingにviolationとして指摘された箇所。
